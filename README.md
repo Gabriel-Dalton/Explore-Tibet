@@ -17,7 +17,7 @@ To view the website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tibetan-culture-website.git
+   git clone https://github.com/Gabriel-Dalton/tibetan-culture-website.git
    ```
 
 2. Navigate to the project directory:
